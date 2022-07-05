@@ -1,0 +1,2 @@
+72371705,Carlos,Flores,Cárdenas,18, 12/02/04,986165211,CarlosVTT,cuentos12,cuentos12
+111,Miguel,Gonzales,Rengifo,18, 1/1/1997,1234567,miguel,123,123
